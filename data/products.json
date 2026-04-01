@@ -1,0 +1,473 @@
+[
+  {
+    "id": 1,
+    "name": "Elegance",
+    "description": "Pastel de 3 pisos con decoración floral de azúcar y detalles en oro",
+    "price": 2500,
+    "image": "/images/products/red-velvet.jpg",
+    "images": [
+      "/images/products/red-velvet.jpg",
+      "/images/products/chocolate.jpg",
+      "/images/products/cheesecake.jpg"
+    ],
+    "category": "Bodas",
+    "categorySlug": "bodas",
+    "badge": "destacado",
+    "available": true,
+    "size": "grande",
+    "capacity": "40-60 personas",
+    "ingredients": [
+      "Harina de trigo",
+      "Huevos",
+      "Mantequilla",
+      "Azúcar glass",
+      "Vainilla",
+      "Fondant",
+      "Flores comestibles"
+    ],
+    "customizationOptions": [
+      "Mensaje personalizado",
+      "Flores específicas",
+      "Niveles adicionales"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Clásico Nupcial",
+    "description": "Elegante pastel de vainilla cubierto con fondant blanco y flores naturales",
+    "price": 1800,
+    "image": "/images/products/chocolate.jpg",
+    "images": [
+      "/images/products/chocolate.jpg",
+      "/images/products/red-velvet.jpg",
+      "/images/products/cheesecake.jpg"
+    ],
+    "category": "Bodas",
+    "categorySlug": "bodas",
+    "available": true,
+    "size": "mediano",
+    "capacity": "20-30 personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Mantequilla",
+      "Fondant",
+      "Vainilla",
+      "Flores naturales"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Modern Love",
+    "description": "Diseño geométrico contemporáneo con acentos en dorado y marmoleado",
+    "price": 2200,
+    "image": "/images/products/cheesecake.jpg",
+    "images": [
+      "/images/products/cheesecake.jpg",
+      "/images/products/tarta-fresas.jpg",
+      "/images/products/red-velvet.jpg"
+    ],
+    "category": "Bodas",
+    "categorySlug": "bodas",
+    "badge": "nuevo",
+    "available": true,
+    "size": "extra-grande",
+    "capacity": "80+ personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Mantequilla",
+      "Fondant",
+      "Pan de oro",
+      "Colorantes comestibles"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Números Felices",
+    "description": "Pastel decorado con número personalizado y topping de chispas de colores",
+    "price": 850,
+    "image": "/images/products/tarta-fresas.jpg",
+    "images": [
+      "/images/products/tarta-fresas.jpg",
+      "/images/products/red-velvet.jpg",
+      "/images/products/chocolate.jpg"
+    ],
+    "category": "Cumpleaños",
+    "categorySlug": "cumpleanos",
+    "available": true,
+    "size": "pequeno",
+    "capacity": "10-15 personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Mantequilla",
+      "Chispas de colores",
+      "Vainilla"
+    ],
+    "customizationOptions": [
+      "Número personalizado",
+      "Color de chispas"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Superhéroes",
+    "description": "Temático infantil con tu superhéroe favorito en fondant comestible",
+    "price": 950,
+    "image": "/images/products/red-velvet.jpg",
+    "images": [
+      "/images/products/red-velvet.jpg",
+      "/images/products/chocolate.jpg",
+      "/images/products/cheesecake.jpg"
+    ],
+    "category": "Cumpleaños",
+    "categorySlug": "cumpleanos",
+    "badge": "destacado",
+    "available": true,
+    "size": "mediano",
+    "capacity": "20-30 personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Mantequilla",
+      "Fondant de colores",
+      "Vainilla"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Floral 50",
+    "description": "Elegante pastel para celebraciones de adultos con decoración floral sofisticada",
+    "price": 1200,
+    "image": "/images/products/chocolate.jpg",
+    "images": [
+      "/images/products/chocolate.jpg",
+      "/images/products/cheesecake.jpg",
+      "/images/products/tarta-fresas.jpg"
+    ],
+    "category": "Cumpleaños",
+    "categorySlug": "cumpleanos",
+    "available": true,
+    "size": "grande",
+    "capacity": "40-60 personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Mantequilla",
+      "Flores de azúcar",
+      "Vainilla"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Tu Diseño",
+    "description": "Base personalizable donde puedes crear el pastel de tus sueños",
+    "price": 1000,
+    "image": "/images/products/cheesecake.jpg",
+    "images": [
+      "/images/products/cheesecake.jpg",
+      "/images/products/tarta-fresas.jpg",
+      "/images/products/red-velvet.jpg"
+    ],
+    "category": "Personalizados",
+    "categorySlug": "personalizados",
+    "badge": "personalizable",
+    "available": true,
+    "size": "pequeno",
+    "capacity": "10-15 personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Mantequilla",
+      "Vainilla",
+      "Fondant base"
+    ],
+    "customizationOptions": [
+      "Cualquier diseño",
+      "Cualquier color",
+      "Mensaje personalizado"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Fotos Comestibles",
+    "description": "Pastel con tu imagen favorita impresa en papel comestible de alta calidad",
+    "price": 1400,
+    "image": "/images/products/tarta-fresas.jpg",
+    "images": [
+      "/images/products/tarta-fresas.jpg",
+      "/images/products/red-velvet.jpg",
+      "/images/products/chocolate.jpg"
+    ],
+    "category": "Personalizados",
+    "categorySlug": "personalizados",
+    "badge": "personalizable",
+    "available": true,
+    "size": "mediano",
+    "capacity": "20-30 personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Mantequilla",
+      "Papel comestible",
+      "Vainilla"
+    ],
+    "customizationOptions": [
+      "Tu foto",
+      "Mensaje especial"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mensaje Especial",
+    "description": "Pastel con letrero personalizado y mensaje especial para tu ser querido",
+    "price": 900,
+    "image": "/images/products/red-velvet.jpg",
+    "images": [
+      "/images/products/red-velvet.jpg",
+      "/images/products/chocolate.jpg",
+      "/images/products/cheesecake.jpg"
+    ],
+    "category": "Personalizados",
+    "categorySlug": "personalizados",
+    "badge": "personalizable",
+    "available": true,
+    "size": "grande",
+    "capacity": "40-60 personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Mantequilla",
+      "Letrero personalizado",
+      "Vainilla"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tres Leches Clásico",
+    "description": "El auténtico pastel tres leches con crema batida y canela",
+    "price": 650,
+    "image": "/images/products/chocolate.jpg",
+    "images": [
+      "/images/products/chocolate.jpg",
+      "/images/products/cheesecake.jpg",
+      "/images/products/tarta-fresas.jpg"
+    ],
+    "category": "Tradicionales",
+    "categorySlug": "tradicionales",
+    "badge": "envio-gratis",
+    "available": true,
+    "size": "mediano",
+    "capacity": "20-30 personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Leche evaporada",
+      "Leche condensada",
+      "Crema",
+      "Canela"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Chocoflan Imposible",
+    "description": "La combinación perfecta de flan y pastel de chocolate en uno solo",
+    "price": 750,
+    "image": "/images/products/cheesecake.jpg",
+    "images": [
+      "/images/products/cheesecake.jpg",
+      "/images/products/tarta-fresas.jpg",
+      "/images/products/red-velvet.jpg"
+    ],
+    "category": "Tradicionales",
+    "categorySlug": "tradicionales",
+    "badge": "destacado",
+    "available": true,
+    "size": "grande",
+    "capacity": "40-60 personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Chocolate",
+      "Leche condensada",
+      "Queso crema"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Carlota de Limón",
+    "description": "Postre tradicional mexicano con galletas María y crema de limón",
+    "price": 450,
+    "image": "/images/products/tarta-fresas.jpg",
+    "images": [
+      "/images/products/tarta-fresas.jpg",
+      "/images/products/red-velvet.jpg",
+      "/images/products/chocolate.jpg"
+    ],
+    "category": "Tradicionales",
+    "categorySlug": "tradicionales",
+    "available": false,
+    "size": "pequeno",
+    "capacity": "10-15 personas",
+    "ingredients": [
+      "Galletas María",
+      "Limón",
+      "Leche condensada",
+      "Leche evaporada",
+      "Crema"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Red Velvet (6 piezas)",
+    "description": "Cupcakes de terciopelo rojo con frosting de queso crema",
+    "price": 320,
+    "image": "/images/products/red-velvet.jpg",
+    "images": [
+      "/images/products/red-velvet.jpg",
+      "/images/products/chocolate.jpg",
+      "/images/products/cheesecake.jpg"
+    ],
+    "category": "Cupcakes",
+    "categorySlug": "cupcakes",
+    "badge": "nuevo",
+    "available": true,
+    "size": "pequeno",
+    "capacity": "6 porciones individuales",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Colorante rojo",
+      "Queso crema",
+      "Vainilla"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Vainilla Arcoiris (12 piezas)",
+    "description": "Cupcakes de vainilla con frosting de colores y sprinkles",
+    "price": 480,
+    "image": "/images/products/chocolate.jpg",
+    "images": [
+      "/images/products/chocolate.jpg",
+      "/images/products/cheesecake.jpg",
+      "/images/products/tarta-fresas.jpg"
+    ],
+    "category": "Cupcakes",
+    "categorySlug": "cupcakes",
+    "available": true,
+    "size": "mediano",
+    "capacity": "12 porciones individuales",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Vainilla",
+      "Colorantes",
+      "Sprinkles"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Chocolate Intenso (6 piezas)",
+    "description": "Cupcakes de chocolate belga con ganache y virutas de cacao",
+    "price": 350,
+    "image": "/images/products/cheesecake.jpg",
+    "images": [
+      "/images/products/cheesecake.jpg",
+      "/images/products/tarta-fresas.jpg",
+      "/images/products/red-velvet.jpg"
+    ],
+    "category": "Cupcakes",
+    "categorySlug": "cupcakes",
+    "badge": "envio-gratis",
+    "available": true,
+    "size": "pequeno",
+    "capacity": "6 porciones individuales",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Chocolate belga",
+      "Ganache",
+      "Virutas de cacao"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Logo Empresarial",
+    "description": "Pastel corporativo con logo de tu empresa impreso en fondant",
+    "price": 1800,
+    "image": "/images/products/tarta-fresas.jpg",
+    "images": [
+      "/images/products/tarta-fresas.jpg",
+      "/images/products/red-velvet.jpg",
+      "/images/products/chocolate.jpg"
+    ],
+    "category": "Corporativos",
+    "categorySlug": "corporativos",
+    "badge": "personalizable",
+    "available": true,
+    "size": "grande",
+    "capacity": "40-60 personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Mantequilla",
+      "Fondant",
+      "Impresión comestible"
+    ],
+    "customizationOptions": [
+      "Logo de empresa",
+      "Colores corporativos"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Torre Cupcakes (50 piezas)",
+    "description": "Torre de cupcakes para eventos corporativos con colores personalizados",
+    "price": 2500,
+    "image": "/images/products/red-velvet.jpg",
+    "images": [
+      "/images/products/red-velvet.jpg",
+      "/images/products/chocolate.jpg",
+      "/images/products/cheesecake.jpg"
+    ],
+    "category": "Corporativos",
+    "categorySlug": "corporativos",
+    "available": true,
+    "size": "extra-grande",
+    "capacity": "50 porciones individuales",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Vainilla",
+      "Chocolate",
+      "Colorantes corporativos"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Aniversario Empresarial",
+    "description": "Pastel de celebración para aniversarios de empresa con diseño premium",
+    "price": 3000,
+    "image": "/images/products/chocolate.jpg",
+    "images": [
+      "/images/products/chocolate.jpg",
+      "/images/products/cheesecake.jpg",
+      "/images/products/tarta-fresas.jpg"
+    ],
+    "category": "Corporativos",
+    "categorySlug": "corporativos",
+    "badge": "destacado",
+    "available": true,
+    "size": "extra-grande",
+    "capacity": "80+ personas",
+    "ingredients": [
+      "Harina",
+      "Huevos",
+      "Chocolate premium",
+      "Fondant",
+      "Decoración dorada"
+    ]
+  }
+]
